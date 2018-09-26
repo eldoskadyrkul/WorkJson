@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Ivan",
+    "lastName": "Ivanon",
+    "age": 20,
+    "faculcy": "ISO",
+    "goodAtMath": true
+  },
+  {
+    "name": "Stepan",
+    "lastName": "Pertov",
+    "age": 21,
+    "faculcy": "SOI",
+    "goodAtMath": false
+  },
+  {
+    "name": "Ignat",
+    "lastName": "Pertov",
+    "age": 19,
+    "faculcy": "LOL",
+    "goodAtMath": true
+  }
+
+]
